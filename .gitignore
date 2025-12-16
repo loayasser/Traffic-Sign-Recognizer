@@ -1,0 +1,5 @@
+Traffic/
+Train/
+Test/
+__pycache__/
+*.csv
